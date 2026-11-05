@@ -1,2 +1,5 @@
-# lumen-co-studio.github.io
-Lumen Co website (built output; source is private)
+# Lumen Co website
+
+Built output of the Lumen Co website, published automatically from a private source repository. Don't edit it by hand.
+
+Live site: https://lumen-co-studio.github.io/
